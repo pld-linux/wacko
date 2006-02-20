@@ -2,6 +2,7 @@
 # - use system lib/HTMLSax3
 # - WAKKA_CONFIG
 Summary:	Small, lightweight, handy, expandable Wiki-clone
+Summary(pl):	Ma³y, lekki, porêczny, rozszerzalny klon Wiki
 Name:		wacko
 Version:	4.2
 Release:	0.1
@@ -25,6 +26,13 @@ Small, lightweight, handy, expandable Wiki-clone written in PHP4.
 This code was forked from WakkaWiki 0.1.2, with some patches from ChS,
 wikini.net, some new actions from WakkaWiki.de and essential amount of
 our own sourcecode.
+
+%description -l pl
+Ma³y, lekki, porêczny, rozszerzalny klon Wiki napisany w PHP4.
+
+Ten kod wywodzi siê z WakkaWiki 0.1.2 z pewn± liczb± ³at z ChS,
+wikini.net, nowymi akcjami z WakkaWiki.de i znacz±c± ilo¶ci± w³asnego
+kodu ¼ród³owego.
 
 %prep
 %setup -q -n %{name}.r%{version}
