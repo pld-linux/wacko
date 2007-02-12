@@ -2,7 +2,7 @@
 # - use system lib/HTMLSax3
 # - WAKKA_CONFIG
 Summary:	Small, lightweight, handy, expandable Wiki-clone
-Summary(pl.UTF-8):   Mały, lekki, poręczny, rozszerzalny klon Wiki
+Summary(pl.UTF-8):	Mały, lekki, poręczny, rozszerzalny klon Wiki
 Name:		wacko
 Version:	4.2
 Release:	0.1
